@@ -1,0 +1,69 @@
+body{
+    background-color: blue;
+    width: 100%;
+    margin:5% 10% 5% 10%;
+    padding: 0;
+   
+}
+.glaven{
+    background-color: white;
+    width: 90%;
+    border-radius: 5px;
+    height: 1000px;
+}
+.top{
+    width: 100%;
+    height: 120px;
+    margin-left: 150px;
+}
+.prv{
+   padding: 20px 20px;
+   margin: 0%;
+}
+#najgore{
+    float: left;
+    
+}
+.vtor{
+    padding-top: 50px;
+    margin-right: 5%;
+    margin-left: 3%;
+}
+.tret{
+    padding-top: 30px;
+    margin-right: 4%;
+}
+.cetvrt{
+    padding-top: 30px;
+    margin-right: 1%;
+}
+.petti{
+    padding-top: 50px;
+    margin-right: 4%;
+}
+.sesti{
+    padding-top: 30px;
+    margin-right: 4%;
+}
+.sedmi{
+    padding-top: 40px;
+   
+}
+button{
+    color: blue;
+    
+}
+#sredina{
+    float: left;
+}
+.levo1{
+
+    margin-left: 7%;
+    width: 25%;
+}
+.levo2{
+ 
+    width: 60%;
+    margin-right: 7%;
+    margin-bottom: 7%;
+}
